@@ -36,6 +36,8 @@ Como membro deste Slack, você concorda que:
 * Nós respeitamos os limites e identidade das pessoas.
 * Nós nos abstemos de usar linguajar que possa ser considerado opressivo (sistematicamente ou não). Por exemplo: sexista, racista, homofóbico, transfóbico, classista, que discrimine deficientes, etc. - Isso inclui (mas não se limita a) vários outros insultos.
 * Nós evitamos tópicos ofensivos como forma de humor.
+* Nós evitamos assuntos que remetem a sexo.
+* Nós não toleramos pirataria e violação dos termos de uso de outros softwares e serviços.
 
 Nós trabalhamos ativamente para:
 
