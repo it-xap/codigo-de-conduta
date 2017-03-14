@@ -123,6 +123,7 @@ Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem
 ### Canais
 
 O Slack permite que qualquer membro crie novos canais. O Android Dev BR possui vários canais para discussões gerais ou específicas. O objetivo de ter diversos canais é permitir que membros com interesse em determinado assunto possam conversar de maneira mais focada, além de permitir que diversas conversas ocorram em paralelo. Antes de criar um canal, porém, verifique se há interesse de outros membros em participar do canal, se não existe um canal equivalente e se o foco do canal está de acordo com o propósito maior do Android Dev BR e com o presente Código de Conduta. A equipe de Admins se reserva o direito de fechar e arquivar canais em duplicidade ou inativos por longos períodos.
+Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para mensagens automáticas ou da equipe de moderação. Portanto, não poste mensagens nestes canais. Quaisquer outras mensagens enviadas nestes canais serão apagadas pela equipe de moderação sem prévio aviso.
 
 ### Bots e integrações
 
