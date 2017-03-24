@@ -133,14 +133,13 @@ Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para men
 
 A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR. 
 
-Dois bots principais estão integrados ao nosso Slack:
-* [Lighthouse bot](https://www.lighthousebot.com/): Analisa automaticamente mensagens e canais para alertar a equipe de Admins possíveis infrações ao presente Código de Conduta.
+Principais estão integrados ao nosso Slack:
 * [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://androiddevbr.slackarchive.io/.
-
-É obrigação de todos os membros adicionar ambos os bots aos canais privados dos quais participam através dos comandos `/invite @archivebot` e `/invite @lighthouse`. Quaisquer canais públicos que não tenham ambos os bots ferem o presente Código de Conduta e tornam o criador do canal passível de advertência.
+* [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
+* [Demisto](https://dbot.demisto.com/slackuser): Analisa os links enviados pelos nossos membros em canais públicos à procura de possíveis links maliciosos, ajudando a proteger nossos membros.
 
 ### Conhecendo o Slack
-É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/).
+É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/). É fundamental também que todos usuários saibam como tirar o melhor proveito das threads oferecidas pelo slack. Saiba mais como usar as threads no [post oficial do Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.t5o624v3u).
 
 ## Sugestões e melhorias
 
