@@ -62,7 +62,7 @@ Se você disser alguma coisa que é considerada ofensiva e for chamado a atenç�
 
 O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
 
-**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin. 
+**Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 * **David Conceição** - @daviddeveloper
@@ -76,8 +76,8 @@ Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento. 
-Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas. 
+Este grupo é voltado para profissionais que trabalhem com Android. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia com Android, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores Android lusófonos ([falantes da língua portuguesa](https://pt.wikipedia.org/wiki/Lusofonia)) em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento.
+Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas.
 Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
 
@@ -105,7 +105,7 @@ Em situação alguma repita a mesma pergunta diversas vezes. Além de gerar spam
 
 ### Seja gentil
 
-Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento de aplicativos, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Android Dev BR um lugar excelente para aprender e se desenvolver. 
+Ao responder, perguntar ou comentar, evite mensagens agressivas ou em tom desproporcional. Lembre-se que nosso grupo é aberto e altamente diversificado. Contamos com membros com larga experiência em desenvolvimento de aplicativos, bem como iniciantes que acabaram de conhecer a plataforma. Contamos também com opiniões e visões diferenciadas sobre quase todos os assuntos. E é isso que faz o Android Dev BR um lugar excelente para aprender e se desenvolver.
 
 Preste atenção em seus posts para manter a comunicação agradável e interessante para todos.
 
@@ -116,7 +116,7 @@ O AndroidDevBR não se responsabiliza por informações sensíveis compartilhada
 
 ### Arquivos e links
 
-O Android Dev BR não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados. 
+O Android Dev BR não tem responsabilidade sobre links ou arquivos compartilhados por seus membros. Cada membro deve observar atentamente a qualidade e o conteúdo de qualquer link ou arquivo antes de compartilhar o mesmo. Também é de responsabilidade de cada membro verificar a aplicação de direito de propriedade sobre arquivos ou links de download compartilhados.
 
 A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Violem propriedades privadas,
@@ -131,16 +131,14 @@ Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para men
 
 ### Bots e integrações
 
-A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR. 
+A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Android Dev BR.
 
-Dois bots principais estão integrados ao nosso Slack:
-* [Lighthouse bot](https://www.lighthousebot.com/): Analisa automaticamente mensagens e canais para alertar a equipe de Admins possíveis infrações ao presente Código de Conduta.
+Principais estão integrados ao nosso Slack:
 * [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://androiddevbr.slackarchive.io/.
-
-É obrigação de todos os membros adicionar ambos os bots aos canais privados dos quais participam através dos comandos `/invite @archivebot` e `/invite @lighthouse`. Quaisquer canais públicos que não tenham ambos os bots ferem o presente Código de Conduta e tornam o criador do canal passível de advertência.
+* [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
 
 ### Conhecendo o Slack
-É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/).
+É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/). É fundamental também que todos usuários saibam como tirar o melhor proveito das threads oferecidas pelo slack. Saiba mais como usar as threads no [post oficial do Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.t5o624v3u).
 
 ## Sugestões e melhorias
 
