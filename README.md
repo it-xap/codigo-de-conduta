@@ -137,7 +137,7 @@ A equipe de Admins se reserva o direito de controlar a configuração de bots e 
 
 Principais estão integrados ao nosso Slack:
 * [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://androiddevbr.slackarchive.io/.
-* [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
+* [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](http://web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
 
 ### Conhecendo o Slack
 É novo no Slack? Não tem problema, o Android Dev BR é aberto à participação de todos. Quer tirar o máximo proveito da ferramenta? Tire um tempo para ler um pouco da [ajuda disponível](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack), consulte os [atalhos disponíveis](https://get.slack.help/hc/en-us/articles/201374536-Slack-keyboard-shortcuts) ou tire sua dúvida sobre a ferramenta no [#random](https://androiddevbr.slack.com/messages/random/). É fundamental também que todos usuários saibam como tirar o melhor proveito das threads oferecidas pelo slack. Saiba mais como usar as threads no [post oficial do Slack](https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd#.t5o624v3u).
