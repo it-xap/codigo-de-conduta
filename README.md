@@ -5,18 +5,18 @@ Código de conduta traduzido e baseado em: https://github.com/AndroidStudyGroup/
 
 --
 
-* [Código de Conduta](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#código-de-conduta)
-* [Como participar do grupo?](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#como-participar-do-grupo)
-* [Regras de etiqueta - Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#regras-de-etiqueta---slack)
-  * [Comandos](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#comandos)
-  * [Dúvidas](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#dúvidas)
-  * [Seja gentil](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#seja-gentil)
-  * [Responsabilidade individual](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#responsabilidade-individual)
-  * [Arquivos e links](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#arquivos-e-links)
-  * [Canais](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#canais)
-  * [Bots e integrações](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#bots-e-integrações)
-  * [Conhecendo o Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#conhecendo-o-slack)
-  * [Sugestões e melhorias](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#sugestões-e-melhorias)
+* [Código de Conduta](#c%C3%B3digo-de-conduta)
+* [Como participar do grupo?](#como-participar-do-grupo)
+* [Regras de etiqueta - Slack](#regras-de-etiqueta---slack)
+  * [Comandos](#comandos)
+  * [Dúvidas](#dúvidas)
+  * [Seja gentil](#seja-gentil)
+  * [Responsabilidade individual](#responsabilidade-individual)
+  * [Arquivos e links](#arquivos-e-links)
+  * [Canais](#canais)
+  * [Bots e integrações](#bots-e-integrações)
+  * [Conhecendo o Slack](#conhecendo-o-slack)
+  * [Sugestões e melhorias](#sugestões-e-melhorias)
 
 ## Código de Conduta
 
