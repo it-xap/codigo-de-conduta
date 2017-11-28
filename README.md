@@ -81,6 +81,8 @@ Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos o
 Dúvidas sobre ROMs, manutenção de aparelhos Android ou procedimentos que violem garantias e bom funcionamento dos mesmos também não são o foco deste grupo.
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
 
+Dada a representatividade desta comunidade, os moderadores se reservam o direito de suspender ou banir do grupo membros que violem o presente Código de Conduta fora do Slack ou outros meios de comunicação da nossa comunidade, incluindo mas não se limitando a outros grupos do Slack, GitHub, redes sociais ou aplicativo de mensagens instantâneas.
+
 Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
 
 [http://slack.androiddevbr.org](http://slack.androiddevbr.org)
